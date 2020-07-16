@@ -17,7 +17,7 @@ Purpose      : The present Script generates a list of Office365 last logons alon
                The Script will output 2 CSV files, one with Last Logons for Office365 Users (differenciated on 'UserType' property) and another one for Office 365 Guests.  
 
 # Script usage
-This script is to be launched within "Exchange Online PowerShell" in order to invoke the cmdlet '__Search-UnifiedAuditLog__' around which the present Script is built.  
+This script is to be launched within "Exchange Online PowerShell" in order to invoke the cmdlet '`Search-UnifiedAuditLog`' around which the present Script is built.  
 Running it from a PS-Session is not advised in case the User Management Admin account used to run it is subject to MFA.  
 Supply your O365 User Management Admin credentials to the MsolService when prompted.  
 Auditing for the O365 tenant should be enabled otherwise Unified Audit Logs could potentially not contain any worthwhile information...  
