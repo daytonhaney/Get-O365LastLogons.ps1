@@ -11,10 +11,10 @@ Script Name  : Get-O365LastLogons.ps1
 Version      : 1.0  
 Release date : 05/05/2020 (CET)  
 
-History      : The present script has been developped for Organizations to have an audit view on last actions by users and guests in their Office 365 tenant.  
+History      : The present script has been developed for Organizations to have an audit view on last actions by users and guests in their Office 365 tenant.  
 
-Purpose      : The present Script generates a list of Office365 last logons along with basic information such as WorkLoad (O365 product), Client IP Address and so on.  
-               The Script will output 2 CSV files, one with Last Logons for Office365 Users (differenciated on 'UserType' property) and another one for Office 365 Guests.  
+Purpose      : The present Script generates a list of Office365 last logons along with basic information such as Workload (O365 product), Client IP Address and so on.  
+               The Script will output 2 CSV files, one with Last Logons for Office365 Users (differentiated on 'UserType' property) and another one for Office 365 Guests.  
 
 # Script usage
 This script is to be launched within "Exchange Online PowerShell" in order to invoke the cmdlet '`Search-UnifiedAuditLog`' around which the present Script is built.  
