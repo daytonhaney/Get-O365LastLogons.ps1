@@ -5,11 +5,11 @@ PowerShell Script to get Office 365 last logons for Users and Guests.
 
 Author       : Cary GARVIN  
 Contact      : cary(at)garvin.tech  
-LinkedIn     : https://www.linkedin.com/in/cary-garvin  
-GitHub       : https://github.com/carygarvin/  
+LinkedIn     : [https://www.linkedin.com/in/cary-garvin](https://www.linkedin.com/in/cary-garvin)  
+GitHub       : [https://github.com/carygarvin/](https://github.com/carygarvin/)  
 
 
-Script Name  : Get-O365LastLogons.ps1  
+Script Name  : [Get-O365LastLogons.ps1](https://github.com/carygarvin/Get-O365LastLogons.ps1)  
 Version      : 1.0  
 Release date : 05/05/2020 (CET)  
 
