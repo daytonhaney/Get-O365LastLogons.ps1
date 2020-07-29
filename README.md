@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="9GWpf3mfdGfzrsqkEuPXMckE_O7e35wrXJ5P9YDcSIQ" />  
+
 # Get-O365LastLogons.ps1  
 PowerShell Script to get Office 365 last logons for Users and Guests.  
 
