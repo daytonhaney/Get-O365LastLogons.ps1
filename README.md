@@ -11,9 +11,9 @@ Script Name  : [Get-O365LastLogons.ps1](https://github.com/carygarvin/Get-O365La
 Version      : 1.0  
 Release date : 05/05/2020 (CET)  
 
-History      : The present script has been developed for Organizations to have an audit view on last actions by users and guests in their Office 365 tenant.  
+History      : The present script has been developed for Organizations to produce an audit view on Office365 last actions by users and guests in their Office365 tenant.  
 
-Purpose      : The present Script generates a list of Office365 last logons along with basic information such as Workload (O365 product), Client IP Address and so on.  
+Purpose      : The present Script generates a list of Office365 last logons along with basic information such as Workload (Office365 product), Client IP Address and so on.  
                The Script will output 2 CSV files, one with Last Logons for Office365 Users (differentiated on 'UserType' property) and another one for Office 365 Guests.  
 
 # Script usage
